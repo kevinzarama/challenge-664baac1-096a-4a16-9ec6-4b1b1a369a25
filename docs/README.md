@@ -23,3 +23,7 @@ Este proyecto demuestra los fundamentos de versionamiento de código utilizando 
    ```bash
    python -m unittest tests/test_main.py
    ```
+
+# Solucion
+
+Cambio de implementacion en el repositorio
